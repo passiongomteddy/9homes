@@ -1,0 +1,10 @@
+
+.idea/9homes.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+templates/dummy.html
+templates/main.html
+templates/request.html
+templates/result.html
